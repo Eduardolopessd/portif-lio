@@ -1,4 +1,4 @@
-# Eduardo Lopes | Desenvolvedor Back-End 🚀
+# Eduardo Lopes | Desenvolvedor Full Stack  🚀
 
 Bem-vindo ao repositório do meu portfólio pessoal! Este projeto foi desenvolvido para demonstrar minhas habilidades, projetos recentes e minha experiência como Desenvolvedor Full Stack, focado na criação de arquiteturas escaláveis e experiências digitais modernas.
 
